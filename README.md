@@ -179,6 +179,11 @@ To make this project production-ready, consider the following:
 4.  **Co-simulation:** The Verilog simulation communicates with the Python-based emotion classifier over a socket connection.
 5.  **Vivado Synthesis:** The Verilog code is synthesized for a Xilinx FPGA using Vivado.
 
+## Teammates 
+Pratyush Kumar https://github.com/pratstick
+Shashvat Mishra  
+3rd year Btech Students Punjab Engineering College,Chandigarh
+
 ## References
 
 *   [Viola-Jones object detection framework](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
