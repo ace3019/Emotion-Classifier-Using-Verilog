@@ -180,9 +180,9 @@ To make this project production-ready, consider the following:
 5.  **Vivado Synthesis:** The Verilog code is synthesized for a Xilinx FPGA using Vivado.
 
 ## Teammates 
-Pratyush Kumar https://github.com/pratstick
-Shashvat Mishra  
-3rd year Btech Students Punjab Engineering College,Chandigarh
+1. **Pratyush Kumar** https://github.com/pratstick
+2. **Shashvat Mishra**  
+   3rd year Btech Vlsi Students Punjab Engineering College,Chandigarh
 
 ## References
 
